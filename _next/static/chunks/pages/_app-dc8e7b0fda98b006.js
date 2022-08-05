@@ -7776,18 +7776,18 @@
                 //     sizes: "180x180",
                 //     href: "/icons/apple-touch-icon.png",
                 //   }),
-                //   (0, C.jsx)("link", {
-                //     rel: "icon",
-                //     type: "image/png",
-                //     sizes: "32x32",
-                //     href: "/icons/favicon-32x32.png",
-                //   }),
-                //   (0, C.jsx)("link", {
-                //     rel: "icon",
-                //     type: "image/png",
-                //     sizes: "16x16",
-                //     href: "/icons/favicon-16x16.png",
-                //   }),
+                  (0, C.jsx)("link", {
+                    rel: "icon",
+                    type: "image/png",
+                    sizes: "32x32",
+                    href: "https://caregap.github.io/www/assets/favicon-32x32.png",
+                  }),
+                  (0, C.jsx)("link", {
+                    rel: "icon",
+                    type: "image/png",
+                    sizes: "16x16",
+                    href: "https://caregap.github.io/www/assets/favicon-16x16.png",
+                  }),
                 //   (0, C.jsx)("link", {
                 //     rel: "manifest",
                 //     href: "/icons/site.webmanifest",
@@ -7799,7 +7799,7 @@
                 //   }),
                   (0, C.jsx)("link", {
                     rel: "shortcut icon",
-                    href: "/icons/favicon.ico",
+                    href: "https://caregap.github.io/www/assets/favicon.ico",
                   }),
                 //   (0, C.jsx)("meta", {
                 //     name: "msapplication-TileColor",
